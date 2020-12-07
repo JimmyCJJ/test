@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  test
 //
-//  Created by 曹鉴津 on 2020/12/7.
+//  Created by Jimmy on 2020/12/7.
 //
 
 #import "AppDelegate.h"
